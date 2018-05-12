@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '31550'
     url: http://www.gutenberg.org/2009/agents/31550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44646#Memoirs-of-the-Duchesse-de-Dino-v.2-3-1836-1840Second-Series
 gutenberg_issued: '2014-01-12'
 gutenberg_type: Text
 identifiers:
